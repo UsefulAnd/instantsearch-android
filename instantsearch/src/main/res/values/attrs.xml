@@ -71,4 +71,9 @@
             <enum name="gt" value="5"/>
         </attr>
     </declare-styleable>
+    <declare-styleable name="FilterSeekBar">
+        <attr name="autoBounds" format="boolean"/>
+        <attr name="boundMin" format="float"/>
+        <attr name="boundMax" format="float"/>
+    </declare-styleable>
 </resources>
